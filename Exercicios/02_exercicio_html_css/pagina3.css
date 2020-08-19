@@ -1,0 +1,25 @@
+body{
+   /* background-image: url('fogo.jpg');*/
+   background-color:#A0E4FF;
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+}
+h1{
+    color: 	#FF4500;
+    text-align: center;
+}
+h2{
+    color: #FF9000;
+    margin-left: 50px;
+}
+h3{
+    margin-left: 25px;
+}
+a:link{
+    text-decoration: none;
+    margin-left: 25px;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}

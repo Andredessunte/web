@@ -1,0 +1,27 @@
+body{
+    background-color:#A8C9F1;
+}
+.tituloimg{
+    color: indigo;
+    text-align: center;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+.subt{
+    color: red;
+    margin-left: 50px;
+}
+.texto{
+    margin-left: 25px;
+}
+
+a:link{
+    text-decoration: none;
+    margin-left: 25px;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
