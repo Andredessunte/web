@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#F4E68E;
+}
+div.pai1{
+    height: 35vh;
+    background-image: url(./cenario3.jpg);
+    background-size: cover;
+    background-position: 100%;
+}
+.divImgPerfil{
+float: left;
+width: 20vw;
+margin-top: -10vw;
+position: relative;
+left: 2vw;
+min-height: 60px;
+min-width: 40px;
+}
+.ProfilePic{
+    float: left;
+    width: 100%;
+}
+div.pai2{
+    background-color: #F4CB00;
+}
+.header{
+    background-color: orange;
+    height: 1%;
+    position: sticky;
+    top: 0;
+    padding: 1%;
+}
+.formatacao{
+    text-align: center;
+    font-size: 1em;
+}
+.imgs{
+    height: 100%;
+	max-width: 100%;
+	min-width: 100%;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.divImgPerfil{
+    margin-bottom: 5%;
+    padding-bottom: 1%;
+    max-width: 240px;
+    max-height: 300px;
+}
+.nome{
+float: left;
+position: relative;
+left: 7vw;
+top: 2vw;
+}
+.nometxt{
+color: red;
+font-size: 2em;
+font-weight: bold;
+}
+.link{
+text-align: right;
+margin: 5%;
+}
+a:visited{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.text{
+    clear: both;
+    padding: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+.boldtxt{
+    font-weight: bold;
+}
